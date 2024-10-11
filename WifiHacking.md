@@ -1,15 +1,15 @@
-##Introduction
+## Introduction
 
 Wi-Fi security plays a vital role in safeguarding digital privacy, and it's important for network administrators and cybersecurity enthusiasts to grasp how vulnerabilities can be taken advantage of. This tutorial will guide you through the process of hacking WPA-WPA2-protected Wi-Fi networks for educational purposes, utilizing Aircrack-ng on Kali Linux.
 
-##Tools Required
+## Tools Required
 Network Adapter (e.g., TL-WN722N V2) with monitoring mode support
 Kali Linux 
 Aircrack-ng
 Airodump-ng
 Airmon-ng
 
-##Monitoring Mode Setup
+## Monitoring Mode Setup
 # Step 1: Kill Interrupting Services
 - Before enabling monitoring mode, identify and kill services that might interrupt the process:
 ```
